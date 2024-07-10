@@ -6,9 +6,6 @@ terraform.tfstate.backup
 # Ignore Terraform variable files
 *.tfvars
 
-# Ignore Terraform lock file
-.terraform.lock.hcl
-
 # Local override files
 override.tf
 override.tf.json
